@@ -1,0 +1,20 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_C258A326_C899_4BFA_41DB_73E22E1BCF7B.label = 1
+panorama_D8DCAA2A_C8A9_45FA_41A2_F9AD8302F51B.label = 2
+panorama_C25891C1_C89A_C6B6_41E5_1E2EE7BEE535.label = 3
+panorama_DD8D78D8_C8B9_46A3_419D_F8E4B8A89C54.label = 4
+panorama_C25C48F6_C89A_C65A_41C5_5D5D5FD463E0.label = 6
+panorama_C25DC0E4_C89A_C67E_41E3_D8D1AFC41089.label = 7
+panorama_C25388A0_C89A_C6F6_41E0_C4C7CE6B4155.label = 8
+panorama_C4DA5F46_C89B_3BBB_41E0_81A0F0C0CC33.label = 9
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tupi_31_16834
